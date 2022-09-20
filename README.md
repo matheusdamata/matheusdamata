@@ -7,6 +7,7 @@
 
 - 📩 Reach me at **matheusdamatag@gmail.com**.
 
+## 📊 Github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusdamata&show_icons=true&theme=react)
 
 <h3 align="left">Skills:</h3>
