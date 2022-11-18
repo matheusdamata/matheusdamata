@@ -3,7 +3,7 @@
  
 - 🚣🏻 I’m currently focus on studying **React/React Native/NodeJS** universe.
 
-- 🙅‍♂️ Ask me about **Games and TV Shows / Movies**.
+- ⚡ Javascript enthusiast.
 
 - 📩 Reach me at **matheusdamatag@gmail.com**.
 
@@ -14,6 +14,8 @@
 
 ## 📊 Github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusdamata&show_icons=true&theme=react)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusdamata)](https://git.io/streak-stats)  
 
 <h3 align="left">Skills:</h3>
 
@@ -28,6 +30,8 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
