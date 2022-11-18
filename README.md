@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey you 👋, I'm Matheus.</h1>
  
-- 🚣🏻 I’m currently focus on studying **React Native/NodeJS** universe.
+- 🚣🏻 I’m currently focus on studying **React/React Native/NodeJS** universe.
 
 - 🙅‍♂️ Ask me about **Games and TV Shows / Movies**.
 
