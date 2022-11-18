@@ -15,8 +15,6 @@
 ## 📊 Github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusdamata&show_icons=true&theme=react)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusdamata)](https://git.io/streak-stats)  
-
 <h3 align="left">Skills:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
