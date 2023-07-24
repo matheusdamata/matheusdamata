@@ -1,11 +1,9 @@
 
 <h1 align="center">Hey you 👋, I'm Matheus.</h1>
  
-- 🚣🏻 I’m currently focus on studying **React/NextJS/React Native/NodeJS** universe.
+💖 In love with **Next.JS & Node.JS**.
 
-- ⚡ Javascript enthusiast.
-
-- 📩 Reach me at **matheusdamatag@gmail.com**.
+📩 Reach me at **matheusdamatag@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
