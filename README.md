@@ -1,7 +1,12 @@
 
-<h1 align="center">Hey you 👋, I'm Matheus.</h1>
+<h1 align="center">Oi! Meu nome é Matheus e sou Desenvolvedor Full Stack</h1>
+
+<strong>Atualmente trabalhando em 🚧</strong>
+<ul>
+ <li>Estruturação e Desenvolvimento de aplicações para clientes que buscam humanizar suas ideias.</li>
+</ul>
  
-💖 In love with **Next.JS & Node.JS**.
+💖 Apaixonado por **Next.JS & Node.JS**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20da%20Mata-7928Ca?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-da-mata-3875b1166/)](https://www.linkedin.com/in/matheus-da-mata-3875b1166/)
 
