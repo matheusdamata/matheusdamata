@@ -1,5 +1,5 @@
 
-<h1 align="center">Oi! Meu nome é Matheus e sou Desenvolvedor Full Stack</h1>
+<h3 align="left">Oi! Meu nome é Matheus e sou Desenvolvedor Full Stack</h3>
 
 <strong>Atualmente trabalhando em 🚧</strong>
 <ul>
