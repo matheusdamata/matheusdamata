@@ -4,6 +4,7 @@
 <strong>Atualmente trabalhando em 🚧</strong>
 <ul>
  <li>Estruturação e Desenvolvimento de aplicações para clientes que buscam humanizar suas ideias.</li>
+ <li>Estruturação de aplicações na AWS.</li>
 </ul>
  
 💖 Apaixonado por **Next.JS & Node.JS**.
