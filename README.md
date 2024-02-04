@@ -5,6 +5,7 @@
 <ul>
  <li>Estruturação e Desenvolvimento de aplicações para clientes que buscam humanizar suas ideias.</li>
  <li>Estruturação de aplicações na AWS.</li>
+ <li>Estruturação de Dados.</li>
 </ul>
  
 💖 Apaixonado por **Next.JS & Node.JS**.
