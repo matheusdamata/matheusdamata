@@ -1,8 +1,7 @@
 
 <h3 align="left">Oi! Sou o Matheus Da Mata</h3>
-Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
+<p>Entusiasta das melhores tecnologias de desenvolvimento web e mobile.</p>
 
-<br/>
 <strong>Atualmente trabalhando em</strong>
 <ul>
  <li>Estruturação e Desenvolvimento de aplicações para clientes que buscam humanizar suas ideias.</li>
