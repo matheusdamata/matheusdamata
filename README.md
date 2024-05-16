@@ -1,13 +1,13 @@
 
 <h3 align="left">Hello! I'm Matheus Da Mata</h3>
-<p>Enthusiast of the best web and mobile development technologies.</p>
+<p>Turning ideas into reality, creating incredible web applications that take the user experience to a higher level.</p>
 
 <strong>Currently working on</strong>
 <ul>
- <li>Front-end development - I bring ideas to life by coding from scratch.</li>
- <li>Backend development - Building powerful server-side systems by coding from scratch.</li>
- <li>Hosting and Deployments - Optimal Deployments and Reliable Hosting for Web Applications.</li>
- <li>API Development - Creating robust APIs, turning ideas into working solutions.</li>
+ <li><b>Front-end development</b> - I bring ideas to life by coding from scratch.</li>
+ <li><b>Backend development</b> - Building powerful server-side systems by coding from scratch.</li>
+ <li><b>Hosting and Deployments</b> - Optimal Deployments and Reliable Hosting for Web Applications.</li>
+ <li><b>API Development</b> - Creating robust APIs, turning ideas into working solutions.</li>
 </ul>
 
 <p>My specialization is not just limited to development, but also extends to user experience, infrastructure, with knowledge in DevOps and Cloud Computing.</p>
